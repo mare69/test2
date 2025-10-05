@@ -1,13 +1,8 @@
-[
-    {
+[{
       "relation": ["delegate_permission/common.handle_all_urls"],
       "target": {
         "namespace": "android_app",
         "package_name": "com.replymate.app",
-        "sha256_cert_fingerprints": [
-          "YOUR_APP_SIGNATURE"
-        ]
+        "sha256_cert_fingerprints": ["3D:40:97:1A:3D:93:DC:C2:8C:73:66:65:28:5E:DB:83:D5:B7:AB:6F:3D:12:C4:5D:CF:35:83:65:57:9B:07:C8"]
       }
-    }
-  ]
-  
+    }]
